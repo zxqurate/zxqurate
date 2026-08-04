@@ -64,8 +64,8 @@
 ### 📊 GitHub-статистика
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zxqurate&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxqurate&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://raw.githubusercontent.com/zxqurate/zxqurate/generated_images/generated/overview.svg" />
+  <img height="165" src="https://raw.githubusercontent.com/zxqurate/zxqurate/generated_images/generated/languages.svg" />
 </p>
 
 <p align="center">
