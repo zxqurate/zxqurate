@@ -49,7 +49,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />        
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
@@ -59,18 +59,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
-
-### 📊 GitHub-статистика
-
-<p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/zxqurate/zxqurate/generated_images/generated/overview.svg" />
-  <img height="165" src="https://raw.githubusercontent.com/zxqurate/zxqurate/generated_images/generated/languages.svg" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zxqurate&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
