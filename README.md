@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mariadb,sqlite,docker,linux,git,github,vscode" />
+  <img src="[https://skillicons.dev/icons?i=postgres,sqlite,docker,linux,git,github,vscode](https://skillicons.dev/icons?i=postgres,sqlite,docker,linux,git,github,vscode)" />
 </p>
 
 <br>
